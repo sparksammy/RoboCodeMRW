@@ -1,3 +1,4 @@
 @echo off
-"C:\lua\lua5.1.exe" robocode-se.lua
+cd /D "%~dp0"
+"C:\lua\lua5.1.exe" robolang-se.lua
 pause
