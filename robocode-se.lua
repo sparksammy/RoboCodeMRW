@@ -1,4 +1,4 @@
---RoboCode Sparksammy Mystery Rewrite Edition
+--RoboLang Sparksammy Mystery Rewrite Edition
 --I had 0 look at the source code of RoboCode, but knew what it did early on.
 --So I worked on a "Mystery ReWrite" that I showed only very early progress and when it was finished on to Oklomsy, the creator.
 --Credit to him for the creation of RoboCode BTW.
